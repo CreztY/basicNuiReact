@@ -38,7 +38,7 @@ inside the game you can write in the chat /show-ui, and the website will be show
     npm run build
 ```
 
-- and then restart the server, or use the `refresh` command, and restart `basicNuiReact`
+- and then restart the server, or use the `refresh` command, and restart `basicNuiReact` in the server console
 ## Author
 
 - [@CreztY](https://www.github.com/CreztY)
