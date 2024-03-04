@@ -12,7 +12,7 @@ This script is a basic and essential implementation for creating a Native User I
 
 ## REQUIREMENTS
 * [Node > v10.6](https://nodejs.org/en/)
-A basic understanding of React JS, If you don't understand it, React may not be for you yet.
+*A basic understanding of React JS, If you don't understand it, React may not be for you yet.*
 
 
 
